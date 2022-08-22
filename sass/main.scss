@@ -1,7 +1,23 @@
-@import 'utils/colors';
-@import 'utils/variables';
-@import 'components/header';
-@import 'components/logo';
-@import 'components/section';
-@import 'components/footer';
-@import 'components/card';
+@import './base/common';
+
+@import './components/container';
+
+@import './layout/header-footer';
+@import './layout/hero';
+@import './layout/hero-button';
+@import './layout/advantage';
+@import './layout/act-team';
+@import './layout/subskribe-button';
+@import './layout/soc-networks';
+@import './layout/submit-button';
+@import './layout/checkbox';
+@import './layout/modal-window';
+@import './layout/portfolio-projects';
+@import './layout/portfolio-buttons';
+@import './layout/portfolio-general';
+
+@import './utils/colors';
+
+
+
+

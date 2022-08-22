@@ -1,0 +1,20 @@
+.portf-btn-banner,
+.portf-proj-banner {
+	display: none;
+}
+.portf-btn-list,
+.portf-proj-list {
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.portf-proj-list {
+	margin-top: -15px;
+	margin-bottom: -15px;
+}
+
+.portf-btn-list {
+	margin-bottom: 50px;
+}
